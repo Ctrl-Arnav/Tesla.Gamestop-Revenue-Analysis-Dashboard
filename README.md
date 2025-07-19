@@ -1,2 +1,2 @@
 # Tesla.Gamestop-Revenue-Analysis-Dashboard
-A small dashboard which  extracts and displays historical stock and revenue data for Tesla and GameStop. Utilizes web scraping techniques through python.
+This project extracts historical stock and revenue data for Tesla and GameStop using the yfinance library and web scraping techniques. It visualizes trends using interactive Plotly graphs, including stock prices, quarterly revenues, and comparative plots. The project is implemented in Python using Jupyter Notebook and demonstrates data cleaning, parsing with BeautifulSoup, and building reusable visualization functions.
